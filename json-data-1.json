@@ -1,0 +1,13 @@
+{
+  "fname": "Renz",
+  "mname": "Tullao",
+  "lname": "Pulvira",
+  "age": 19,
+  "titles": {
+    "Guitarist": "true",
+    "Pianist": "true",
+    "Drummer": "false",
+    "Programmer": "true"
+  },
+  "favorite_numbers": [4, 9, 19]
+}
